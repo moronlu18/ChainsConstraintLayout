@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ChainsConstraintLayout</string>
+    <string name="txtA">A</string>
+    <string name="txtB">B</string>
+    <string name="txtC">C</string>
+    <string name="txtD">D</string>
+    <string name="txtE">E</string>
+    <string name="txt1">1</string>
+    <string name="txt2">2</string>
+    <string name="txt3">3</string>
+    <string name="txt4">4</string>
+    <string name="txt5">5</string>
+</resources>
